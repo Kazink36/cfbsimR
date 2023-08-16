@@ -1,0 +1,31 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# cfbsimR <img src='man/figures/logo.png' align="right" height="137" />
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of cfbsimR is to simulate a college football season and is
+based on Lee Sharpe’s nflseedR package. This was built before the 2022
+season and likely needs some adjustment for 2023 and beyond
+(particularly conference realignment)
+
+## Installation
+
+You can install the development version of cfbsimR from
+[GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("Kazink36/cfbsimR")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+library(cfbsimR)
+## basic example code
+```
